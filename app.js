@@ -1,7 +1,7 @@
 /**
  * Module dependencies.
  */
-
+fdsafdsafdsafdsafdsaf范德萨发士大夫撒旦法师宣传做出选择
 var express = require('express')
     , routes = require('./routes/routes')
     , user = require('./routes')
@@ -28,7 +28,7 @@ app.configure(function () {
       app.use(express.static(path.join(__dirname, 'views/partials')));*/
 });
 
-app.configure('development', function () {
+app.configure('development', function () {  
     app.use(express.errorHandler());
 });
 
